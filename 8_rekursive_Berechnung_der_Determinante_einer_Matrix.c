@@ -84,5 +84,6 @@ int main() {
     }
     printf("Determinante: %.2f\n", matrix_det(A));
     matrix_destroy(A);
+    matrix_destroy(B);
     return 0;
 }
