@@ -49,18 +49,13 @@ bis einschl. 12.000	12 %
 Verheirateten Steuerpflichtigen werden 20% ihrer Steuer erlassen
 pro Kind werden 10% der Steuer erlassen.
 
-Alle Steuernachlässe werden addiert, d.h. sie beziehen sich auf das Bruttogehalt. 
+Alle Steuernachlässe werden addiert!
 Negative Steuersätze gibt es nicht, in diesem Fall wird die Steuerlast auf 0 gesetzt.
-
-
 Die Steuersätze sind in Konstanten vom Typ double zu halten.
-Alle drei eingegebenen Werte sind auf Fehler zu überprüfen, es gibt aber keine max. Kinderzahl.
-
-Das Programm gibt im Normalfall die abzuführende Steuer mit zwei Nachkommastellen aus:
-
-Das Programm gibt im Fehlerfall den Text "`Eingabefehler"' (mit Zeilenumbruch) aus:
-
+Alle drei eingegebenen Werte sind auf Fehler zu überprüfen! 
+Es gibt aber keine max. Kinderzahl.
+Das Programm gibt im Normalfall die abzuführende Steuer mit zwei Nachkommastellen aus!
+Das Programm gibt im Fehlerfall den Text "`Eingabefehler"' (mit Zeilenumbruch) aus!
 Der oben stehende Code ist verpflichtend, die Ein- und Ausgabe muss so erfolgen!
-Lediglich die dabei verwendeten Variablen sind frei!
 Weitere Ein- und Ausgaben dürfen nicht erfolgen!
 Das Programm darf keine Schleifen und Funktionen enthalten!*/
