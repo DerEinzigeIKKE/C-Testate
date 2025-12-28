@@ -40,10 +40,7 @@ e = (2b + 4c + 6d + N) mod 7
 Ostern = (22 + d + e)ter März (Der 32. März ist der 1. April usw.)
 
 Die Umrechnung der Variable Ostern aus der Osterformel in ein korrektes Datum darf nur mit Ausdrücken erfolgen!
-Verzweigungen (if, if-else, switch-case, ternärer Operator) oder gar Schleifen sind nicht erlaubt, da diese erst in späteren Kapiteln behandelt werden!
-Der bei Wikipedia beschriebene Sonderfall, der nach dieser Berechnung zu einem falschen Ergebnis führt, ist nicht zu berücksichtigen bzw. zu implementieren. 
+Verzweigungen (if, if-else, switch-case, ternärer Operator) oder gar Schleifen sind nicht erlaubt!
 Es ist die obige Berechnung umzusetzen.
-
-Für dieses Testat müssen 50% unserer Tests richtig sein, um das Testat zu bestehen.
 
 */
